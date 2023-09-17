@@ -1,8 +1,5 @@
 
-
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">👋 Olá, sou WELISON.
+<p align="center">👋<Strong> Olá, sou WELISON.</Strong>
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 🌐 Apaixonado por tecnologia e programação  
@@ -13,7 +10,7 @@
 📚 Sempre em busca de conhecimento e desafios para aprimorar minhas habilidades. 
 
 🚀 Vamos programar juntos!  
-</p>&nbsp;
+</p>
 
 
 
