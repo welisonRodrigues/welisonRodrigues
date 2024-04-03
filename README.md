@@ -8,8 +8,6 @@
 🔙 Back-end Básico | 🔗 Front-end Básico | 🌐 JavaScript básico (todos com certificado)
 
 📚 Sempre em busca de conhecimento e desafios para aprimorar minhas habilidades. 
-
-🚀 Vamos programar juntos!  
 </p>
 
 
